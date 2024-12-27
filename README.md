@@ -17,7 +17,7 @@ A simple project to practice CSS Box Model. This project is a simple webpage wit
 
 ## Live Demo
 
-[Rothko Painting](https://eddking-qs.github.io/CSS_Mini-Projects_Rothko_Painting/)
+[Rothko Painting](https://quintin-dev.github.io/CSS_Mini-Projects_Rothko_Painting/)
 
 ## Disclaimer
 
